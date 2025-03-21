@@ -1,1 +1,7 @@
-
+Traders@SMU L1 Week 2 Python Homework
+Exercise 1: Data Collection and Basic Operations
+Topics Used: For Loops, Indexing, Lists, Operations, Variables
+1. You are given a list of daily closing prices for a stock over 5 days: [100.5, 102.3, 99.8, 103.7, 101.2].
+2. Store this list in a variable called stock_prices.
+3. Calculate the daily returns for each day (return = (current_price - previous_price) / previous_price) and store them in a new list called daily_returns.
+4. Print the daily_returns list.
